@@ -4,15 +4,6 @@ label {
   margin-bottom: 10px;
 }
 
-#love-cats {
-  display: flex;
-  padding: 0 2px;
-}
-
-.buttonSubmit {
-  margin: 10px 0;
-}
-
 fieldset {
   margin-bottom: 20px;
   padding-bottom: 0;
