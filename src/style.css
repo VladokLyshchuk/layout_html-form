@@ -1,10 +1,10 @@
-label {
+.to-fill {
   display: block;
   padding: 0;
   margin-bottom: 10px;
 }
 
-fieldset {
+.block {
   margin-bottom: 20px;
   padding-bottom: 0;
 }
